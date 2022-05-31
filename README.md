@@ -27,10 +27,13 @@ This heat map shows the amount of rides that started by week and by hour. The da
 
 This heat map shows the amount of rides that started by week and by hour and by gender. The darked the box the more rides there were.
 
-![trip_user_weekdays](https://github.com/tori-taylor/Citi_Bike2/blob/main/images/strip_user_weekdays.PNG)
+![trips_user_weekdays](https://github.com/tori-taylor/Citi_Bike2/blob/main/images/trips_user_weekdays.PNG)
 
 This heat map shows the amount of rides that started by weekday and by user type (customer vs subscriber)
 
 ## Summary
-The results show that most rides are less than an hour. From the hourly / weekday analysis most rides take place during commuter hours during the week, and during the day on the weekends. Men tend to use the bikes more than women. If possible I would do this analysis with a city that had a more similar geographical landscape as Des Moines, a lot of the rides are less than an hour in NYC which may be due to the dense population. 
+The results show that most rides are less than an hour. From the hourly / weekday analysis most rides take place during commuter hours during the week, and during the day on the weekends. Men tend to use the bikes more than women. If possible I would do this analysis with a city that had a more similar geographical landscape as Des Moines, a lot of the rides are less than an hour in NYC which may be due to the dense population. I'd also look at duration based on where someone started. 
+
+## Link to Tableau
+[link to dashboard](https://public.tableau.com/app/profile/tori.taylor/viz/CitiBikeChallenge_16539675839610/CitiBikeChallenge?publish=yes)
 
